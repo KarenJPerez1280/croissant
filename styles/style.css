@@ -1,3 +1,7 @@
+body {
+    background-color: bisque;
+}
+
 h1,
 h2,
 p {
@@ -8,10 +12,15 @@ footer {
     text-align: center;
 }
 
+.email {
+    text-decoration: none;
+    color: rgb(223, 164, 53);
+}
 
 .links {
-
+    color: rgb(211, 159, 104);
     padding: 20px;
+
 }
 
 img {
